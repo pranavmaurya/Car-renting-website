@@ -11,4 +11,5 @@ Features
 
 Output:
 
-<img width="960" alt="Screenshot 2023-06-15 123149" src="https://github.com/pranavmaurya/Car-renting-website/assets/85123163/d5904c29-7e14-47ee-8107-178356b58d7a">
+![Screenshot (61)](https://github.com/pranavmaurya/Car-renting-website/assets/85123163/bba07a18-1246-4567-9e04-132c4cb1090d)
+
